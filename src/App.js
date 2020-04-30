@@ -18,6 +18,18 @@ function App() {
         >
           Learn React
         </a>
+
+        <p>OR</p>
+        
+        <a
+          className="App-link"
+          href="https://create-react-app.dev/docs/deployment/#github-pages"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          check out how to launch your app on Github pages
+        </a>
+        
       </header>
     </div>
   );
